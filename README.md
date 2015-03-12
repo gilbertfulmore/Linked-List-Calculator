@@ -1,6 +1,6 @@
 # Linked-List-Calculator
 Takes two arbitrary long number in two separate files and returns output in a new file
-
+--------------------------------------------------------------------------------------
 The MIT License (MIT)
 
 Copyright (c) 2015 Gilbert Fulmore
