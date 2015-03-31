@@ -5,7 +5,7 @@
  *  Course:  Computer Science 222                                     *
  *  Institution:  Okanagan College                                    *
  *  Version:  2014-11-24                                               *
- *  Platform: Unix (Solaris 11)					      *
+ *  Platform: Solaris 11					      *
  **********************************************************************/
 
 #include <iostream>
