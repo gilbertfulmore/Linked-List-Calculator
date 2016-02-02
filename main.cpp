@@ -4,7 +4,7 @@
  *  Author:  Gilbert Fulmore                                          *
  *  Course:  Computer Science 222                                     *
  *  Institution:  Okanagan College                                    *
- *  Version:  2014-11-24                                               *
+ *  Version:  2014-11-24                                              *
  *  Platform: Solaris 11					      *
  **********************************************************************/
 
