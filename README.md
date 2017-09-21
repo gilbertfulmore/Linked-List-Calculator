@@ -1,6 +1,6 @@
 # Linked-List-Calculator
 
-Project: Takes two arbitrary long number in two separate files and returns output in a new file
+Assignment: Takes two arbitrary long number in two separate files and returns output in a new file
 Syntax:  $LinkedList <add or mult> <input1> <input2> <output>     
 Author:  Gilbert Fulmore                                          
 Course:  Computer Science 222                                     
